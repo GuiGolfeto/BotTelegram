@@ -1,6 +1,6 @@
 import telebot
 
-Chave_API = '2017165015:AAHF11Jtc6q4lzluuTxxVlAe79AkN4E91OA'
+Chave_API = 'YOUR_KEY'
 
 bot = telebot.TeleBot(Chave_API)
 
